@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="time_color">#C3C3C3</color>
+    <color name="armor_color">#E1E1E1</color>
+    <color name="lungs_color">#B6D3F2</color>
+    <color name="health_color">#B4191D</color>
+    <color name="money_color">#36662C</color>
+</resources>
